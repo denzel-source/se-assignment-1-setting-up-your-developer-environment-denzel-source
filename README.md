@@ -20,7 +20,7 @@ I chose to continue using Windows 10 for my development environment setup as it 
 
    I  installed  Visual Studio Code (VS Code) as my IDE. Here's how I did it:
 Downloaded the VS Code installer for Windows 10 from the official website: https://code.visualstudio.com/Download
-![VS Download](c/Snippets/VS Code.png)
+![Vs Download](snipppets/Vs Code.png)
 
 Double-clicked the downloaded installer and followed the on-screen instructions to complete the VS Code installation.
 
